@@ -8,9 +8,4 @@ Connect with me on [LinkedIn!](https://www.linkedin.com/in/subhan-tariq-100h).
 
 Check out my [Github!](https://github.com/stariq20)
 
-
-
-
-
-# stariq20.github.io
-Personal Website
+[Download my resume](resume.pdf)
